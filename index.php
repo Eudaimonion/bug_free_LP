@@ -10,7 +10,7 @@
                 What is Global Leadership Coaching for Entrepreneurs?
               </h2>
               <img src="<?= get_template_directory_uri() . '/assets/images/globe.jpg' ?>" srcset="<?= get_template_directory_uri() . '/assets/images/globe.jpg' ?> 1x, <?= get_template_directory_uri() . '/assets/images/globe@2x.jpg' ?> 2x" alt="Geo Coaching Globe"/>
-              <p>At the heart of Geo Coaching’s Entrepreneur Coaching lies intuitive knowledge engineering. In a nutshell, this means that Global Entrepreneur Coaching helps you:</p>
+              <p>Global Leadership Coaching for entrepreneurs is a vital and indispensable investment in your future company, whether you are an entrepreneur launching your first business, a serial entrepreneur working on a new venture or an intra-preneur seeking to innovate within your organisation. Global Entrepreneur Coaching helps you:</p>
               <ul class="list-disc list-inside">
                 <li>Face complex challenges thanks to its global approach.</li>
                 <li>Bring your vision into consciousness.</li>
