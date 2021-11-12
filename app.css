@@ -1,0 +1,35 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+:root {
+  --input-height: 40px;
+  --foreground: #000;
+  --background: #fff;
+  --border: #eee;
+  --radius: 5px;
+}
+
+label {
+  @apply font-medium;
+}
+
+textarea {
+  @apply w-full border border-border rounded-md h-24;
+  display: block;
+}
+
+input {
+  @apply border border-border rounded-md;
+  height: var(--input-height);
+}
+
+#form_contact input,
+#form_contact textarea {
+  @apply mb-4;
+}
+
+#form_contact .btn {
+  @apply w-full border-0 bg-yellow text-text rounded-md flex justify-center items-center;
+  height: var(--input-height);
+}
