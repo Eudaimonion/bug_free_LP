@@ -10,7 +10,7 @@
                 What is Global Leadership Coaching for Entrepreneurs?
               </h2>
               <img src="<?= get_template_directory_uri() . '/assets/images/globe.jpg' ?>" srcset="<?= get_template_directory_uri() . '/assets/images/globe.jpg' ?> 1x, <?= get_template_directory_uri() . '/assets/images/globe@2x.jpg' ?> 2x" alt="Geo Coaching Globe"/>
-              <p>Global Leadership Coaching for entrepreneurs is a vital and indispensable investment in your future company, whether you are an entrepreneur launching your first business, a serial entrepreneur working on a new venture or an intra-preneur seeking to innovate within your organisation. Global Entrepreneur Coaching helps you:</p>
+              <p>Global Leadership Coaching for entrepreneurs is a vital and indispensable investment in your future company, whether you are an entrepreneur launching your first business, a serial entrepreneur working on a new venture or an intrapreneur seeking to innovate within your organisation. Global Entrepreneur Coaching helps you:</p>
               <ul class="list-disc list-inside">
                 <li>Face complex challenges thanks to its global approach.</li>
                 <li>Bring your vision into consciousness.</li>
@@ -48,8 +48,8 @@
                   "Geo Coaching’s partnership creates a progressive balance between coaching, mentoring, informing and challenging that has helped me, and the team, create the right relationships with our board (allowing us to move key strategic initiatives forward in a much more comprehensive and effective manner), helped us with our own development as a team and how we work and communicate together and has helped me personally grow my leadership capability, credibility and results. Our work together has enabled me to be a more effective executive leader, creating a more proactive and flexible organization with one of, if not the best, teams I have worked with. I, my team and our board could not be more pleased with the relationship and the demonstrable results."
                 </p>
                 <p class="grid">
-                  <strong>Nasser Al Ghamdi</strong>
-                  General Director
+                  <strong>NAG</strong>
+                  General Director of an Energy 
                 </p>
               </div>
             </div>
