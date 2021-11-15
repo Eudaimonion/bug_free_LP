@@ -19,7 +19,7 @@
                 <?php } ?>
               </div>
               <p>
-                “I would love everyone to experience this feeling of knowing what is possible when you take time  to line up personal vision with business objectives.”
+                “Our work together has enabled me to be a more effective executive leader, creating a more proactive and flexible organization with (...) the best teams (...).” N.A.G., General Director of an organisation in the energy industry.
               </p>
             </div>
             <h1 class="text-5xl font-bold">
@@ -40,9 +40,9 @@
                   <div class="text-text bg-white rounded-xl shadow-lg p-4 relative">
                     <div class="hidden lg:block absolute -top-8 -left-32 w-28">
                       <img src="<?= get_template_directory_uri() . '/assets/images/arrow.svg' ?>" alt="Arrow"/>
-                      <p class="text-white">Get access to free coaching samples</p>
+                      <p class="text-white">Get access to key insights from the field</p>
                     </div>
-                    <h3 class="text-2xl mb-4">SIGN UP TO OUR NEWSLETTER AND BENEFIT FROM OUR KEY INSIGHTS AND <strong>FREE COACHING SAMPLES</strong></h3>
+                    <h3 class="text-2xl mb-4">SIGN UP TO OUR NEWSLETTER AND BENEFIT FROM OUR KEY INSIGHTS AND <strong>COMPLIMENTARY WEBINARS</strong></h3>
                     <?= do_shortcode('[contactSellsy id=1]') ?>
                     <p class="text-center text-border">No spam, just free value in your inbox</p>
                   </div>
@@ -55,10 +55,10 @@
                       <?php } ?>
                     </div>
                     <p class="text-center text-white md:text-text mb-2">
-                      "Since I started the business, automatically taking the reins of leadership in a CEO role, I worked so hard to become a CEO. I was chasing the idea of what a CEO should be like. Later, with some help, I realized that I did not need to become a CEO: In fact, the CEO was me. This was a simple, yet defining idea in my leadership. This realization was during my coaching program with GEO Coaching. The period of coaching has also witnessed a 75 % gain to the firm’s assets under management in the past 12 months."
+                      "Since I started the business, automatically taking the reins of leadership in a CEO role, I worked so hard to become a CEO. I was chasing the idea of what a CEO should be like. Later, with some help, I realized that I did not need to become a CEO: In fact, the CEO was me. This was a simple, yet defining idea in my leadership. This realization was during my coaching program with GEO Coaching."
                     </p>
                     <p class="text-center text-white md:text-text">
-                      <strong>Wael Al-Nahedh</strong>
+                      <strong>W.A.N., Startup Founder in the Finance industry</strong>
                     </p>
                   </div>
                 </div>
