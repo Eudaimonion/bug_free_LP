@@ -49,7 +49,7 @@
                 </p>
                 <p class="grid">
                   <strong>N.A.G.</strong>
-                  General Director of an organisation in the Energy industry
+                  General Director of an organisation in the Energy industry.
                 </p>
               </div>
             </div>
@@ -65,7 +65,7 @@
                 </p>
                 <p class="grid">
                   <strong>T.M.N.</strong>
-                  CEO and Founder of a startup in the food industry.
+                  CEO and Founder of a startup in the Food industry.
                 </p>
               </div>
             </div>
@@ -81,7 +81,7 @@
                 </p>
                 <p class="grid">
                   <strong>S.D.</strong>
-                  Founder and Managing Director of a company in the recruitment industry.
+                  Founder and Managing Director of a company in the Recruitment industry.
                 </p>
               </div>
             </div>
